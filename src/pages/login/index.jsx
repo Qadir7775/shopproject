@@ -1,4 +1,3 @@
-//meta teqleri elave ede bilmersen bura bele, yanlisdir
 export default function Login() {
     return (
         <div>
